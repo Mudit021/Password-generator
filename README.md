@@ -23,13 +23,16 @@ Let’s dive into the code!
 import random as r
 
 "Ask the user for the number of characters in the password"
+
 a = int(input("Enter the number of characters:"))
 
 "Initialize two empty lists to store numbers and alphabets"
+
 b = []
 e = []
 
 "Generate random numbers between 0 and 9"
+
 i = 0
 while i < a:
     g = r.randint(0, 9)  # Generate a random number between 0 and 9

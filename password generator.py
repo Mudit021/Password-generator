@@ -22,3 +22,4 @@ r.shuffle(alphanum)
 print('the numbers are:',*b)
 print('the alphabets are:',*e)
 print('the generated password is:',*alphanum)
+

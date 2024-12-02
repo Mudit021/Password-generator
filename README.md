@@ -1,6 +1,5 @@
 # Password-generator
-make a linked in post for 
-'A Python Guide to Generating Random Passwords with Numbers and Alphabets'
+## 'A Python Guide to Generating Random Passwords with Numbers and Alphabets'
 
 In today's digital age, security is of paramount importance, and one of the key elements to protecting your accounts is using strong passwords. One common method for creating secure passwords is by generating random combinations of characters. In this blog post, we will walk you through a Python program that generates a random password by combining numbers and alphabets (both uppercase and lowercase) and shuffling them for added security.
 Introduction:
